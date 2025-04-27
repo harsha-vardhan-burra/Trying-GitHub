@@ -1,2 +1,2 @@
 # Trying-GitHub
-Getting to know with the basics of Git and Github
+Getting to know about the basics of Git and Github
